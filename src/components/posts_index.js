@@ -36,3 +36,4 @@ function mapStateToProps(state){
 }
 
 export default connect(mapStateToProps, {fetchPosts})(PostsIndex);
+//test
